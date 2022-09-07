@@ -1,4 +1,4 @@
-require './lib/game.rb'
+require './lib/connect_four.rb'
 
-game = Game.new
+game = ConnectFour.new
 game.play
